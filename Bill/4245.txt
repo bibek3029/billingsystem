@@ -1,0 +1,9 @@
+	welcome to our restaurant
+Customer Name : hjjsdhj
+Phone No. : 1144441
+Bill No. :4245
+------------------------------------
+PRODUCTS		QTY	Price
+-------------------------------------
+ Tuborg Strong		4	1400
+ Total			1400.0

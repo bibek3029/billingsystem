@@ -1,0 +1,10 @@
+	welcome to our restaurant
+Customer Name : Bigyan subedi
+Phone No. : 9847595004
+Bill No. :4479
+------------------------------------
+PRODUCTS		QTY	Price
+-------------------------------------
+ Tuborg Strong		5	1750
+ Ruslan		3	4800
+ Total			8150.0

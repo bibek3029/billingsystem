@@ -1,0 +1,10 @@
+	welcome to our restaurant
+Customer Name : Bigyan
+Phone No. : suiuewyye
+Bill No. :1918
+------------------------------------
+PRODUCTS		QTY	Price
+-------------------------------------
+ Tuborg Strong		5	1750
+ Ruslan		2	3200
+ Total			4950.0

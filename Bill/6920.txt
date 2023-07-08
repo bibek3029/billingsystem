@@ -1,0 +1,9 @@
+	welcome to our restaurant
+Customer Name : Bibek subedi
+Phone No. : 9867164234
+Bill No. :6920
+------------------------------------
+PRODUCTS		QTY	Price
+-------------------------------------
+ Tuborg Strong		4	1400
+ Total			1400.0

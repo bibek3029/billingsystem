@@ -1,0 +1,9 @@
+	welcome to our restaurant
+Customer Name : rajesh gautam
+Phone No. : 88789977
+Bill No. :7896
+------------------------------------
+PRODUCTS		QTY	Price
+-------------------------------------
+ Tuborg Strong		9	3150
+ Total			6350.0
